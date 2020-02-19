@@ -1,6 +1,8 @@
 # iFriends
 Instagram friends network visualizer
 
+![example](https://github.com/pedro-bento/iFriends/blob/master/res/example.png)
+
 ## Dependencies
 
 - [Firefox]
